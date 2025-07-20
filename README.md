@@ -7,7 +7,7 @@ It helps you monitor your financial flow, calculate your balance, and visually s
 
 ## 📸 Preview
 
-![Expense Tracker Preview](./a1975a91-86dd-40fb-a79a-6e03a4abcafa.png)
+<img width="487" height="841" alt="image" src="https://github.com/user-attachments/assets/65b9d560-277b-495a-bed1-c518496a18d0" />
 
 ---
 
@@ -57,18 +57,30 @@ It helps you monitor your financial flow, calculate your balance, and visually s
 ## 📂 Folder Structure (Suggested)
 
 ```
-📁 src
-├── 📁 components
-│   ├── Header.jsx
-│   ├── Balance.jsx
-│   ├── IncomeExpense.jsx
-│   ├── TransactionList.jsx
-│   ├── Transaction.jsx
-│   ├── AddTransaction.jsx
-├── 📁 context
-│   └── GlobalState.js
-├── App.js
-├── index.js
+📦 expense-tracker
+├── 📁 public
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+│
+├── 📁 src
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+│
+├── .gitignore
+├── README.md
+├── package-lock.json
+└── package.json
+
 ```
 
 ---
