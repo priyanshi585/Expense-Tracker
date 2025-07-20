@@ -137,5 +137,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📃 Live Project URL : 
+## 📃 Live Project URL : https://priyanshi585.github.io/Expense-Tracker/
 
