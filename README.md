@@ -125,10 +125,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📃 License
+## 📃 Live Project URL : 
 
-This project is licensed under the **MIT License** — feel free to use it for learning or building.
-
----
-
-Let me know if you want this in `.md` file format or want me to include GitHub badges, author credit, or live demo link!
