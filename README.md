@@ -1,7 +1,7 @@
 # 💸 Expense Tracker App
 
 Track your income and expenses effortlessly with this beautifully designed and easy-to-use **Expense Tracker Web App**.  
-It helps you monitor your financial flow, calculate your balance, and visually see income vs. expenses 💰📉.
+It helps you monitor your financial flow, calculate your balance, and visually see income vs. expenses 💰📉. 
   
 --- 
 
